@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         wyl's hello world
 // @namespace    https://ty1hc.github.io/
-// @version      0.1
+// @version      0.2
 // @description  wyl's first tm script
 // @author       wyl
 // @match        https://www.baidu.com/
